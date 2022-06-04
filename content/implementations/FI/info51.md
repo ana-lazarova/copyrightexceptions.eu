@@ -1,6 +1,6 @@
 ---
 title: "§11a of the Copyright Act"
-date: 2005-12-09T11:39:34+02:00 
+date: 2006-01-01
 draft: false
 weight: 30
 exceptions:
