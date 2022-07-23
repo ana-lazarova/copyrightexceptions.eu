@@ -24,7 +24,6 @@ subjectmatter:
 - film fixations
 - broadcasts
 compensation:
-compensation:
 - no compensation required
 attribution: 
 - no attribution required
@@ -34,6 +33,6 @@ otherConditions:
 - temporary acts of reproduction must have no independent economic significance
 - the intermediary must not alter the content of the transmission 
 - the intermediary must not interfere with the legitimate use of the technology according to the good market practices, to obtain data on the use of the information, and in general the merely technological transmission processes
-remarks: "The exception applies mutatis mutandis to neighbouring rights under art. 189(3) of the Copyright code."
+remarks: "The exception applies mutatis mutandis to neighbouring rights under art. 189(3) of the Copyright code.<br /><br />Indication of source is mandatory in Portugal for all exceptions. Under art. 76º n.º1 (a), the free use referred to in the previous article must be accompanied by the indication, whenever possible, of the name of the author and editor, the title of the work and other circumstances that identify them."
 link: https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0075&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=#artigo
 ---
