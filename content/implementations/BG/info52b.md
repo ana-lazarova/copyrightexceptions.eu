@@ -12,7 +12,7 @@ description: "This exception allows the reproduction of works (other than comput
 beneficiaries:
 - any physical person
 purposes: 
-- for personal use
+- for personal, non-commercial use
 usage:
 - reproduction
 subjectmatter:
@@ -25,7 +25,6 @@ compensation:
 attribution: 
 - no attribution required
 otherConditions: 
-- for non-commercial purposes
 remarks: "The exception extends to performers (Article 84), phonograms producers (Art. 90) and film producers (Art.90v). The exception does not cover broadcasting rights (Art. 93)."
 link: https://lex.bg/laws/ldoc/2133094401
 ---
