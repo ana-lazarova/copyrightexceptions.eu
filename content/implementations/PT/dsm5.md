@@ -31,7 +31,7 @@ compensation:
 attribution: 
 - indication of the source, including the name of the author, except when this proves impossible
 otherConditions: 
-- use must be limited to the extent justified by the non-commercial objective pursued a
+- use must be limited to the extent justified by the non-commercial objective pursued
 - use must take place under the responsibility of an educational and teaching establishment, on its premises or elsewhere, or through secure electronic means accessible only by students, teachers and technicians in the school context of that same establishment of education and teaching 
 remarks: "The implementation of art.5 of the CDSM Directive in 75(g) co-exists and partially overlaps with the pre-existing teaching exceptions in art.75(e) and (i).<br /><br />The exception applies mutatis mutandis to neighbouring rights under art. 189(3) of the Copyright code."
 link: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-34475475
