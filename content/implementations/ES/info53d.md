@@ -1,5 +1,5 @@
 ---
-title: "Article 32(1) of Law 23/2006"
+title: "Article 32(1) of Law 23/2006 "
 date: 2014-11-04
 draft: false
 weight: 54
