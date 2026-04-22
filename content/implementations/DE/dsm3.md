@@ -8,9 +8,9 @@ exceptions:
 jurisdictions:
 - DE
 score: 3
-description: "This exception allows for reproductions for text and data mining, by research organizations and cultural heritage institutions, of legally accessible works and other subject matter, for the purposes of scientific research." 
+description: "This exception allows for reproductions for text and data mining, by research organisations and cultural heritage institutions, of legally accessible works and other subject matter, for the purposes of scientific research." 
 beneficiaries:
-- research organizations
+- research organisations
 - libraries and museums (provided they are open to the public, as well as archives and film or audio heritage institutions (cultural heritage institutions))
 - individual researchers
 purposes: 
