@@ -24,6 +24,7 @@ subjectmatter:
 - phonograms
 - film fixations
 - broadcasts
+- press publications
 compensation:
 - no compensation required
 attribution: 
@@ -31,5 +32,5 @@ attribution:
 otherConditions: 
 - use is limited to a justifiable extent
 remarks: "The exception extends to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' rights (§ 86)."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
