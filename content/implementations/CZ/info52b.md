@@ -22,6 +22,7 @@ subjectmatter:
 - phonograms
 - film fixations
 - broadcasts
+- press publications
 compensation:
 - payment of fair compensation required
 attribution: 
@@ -29,5 +30,5 @@ attribution:
 otherConditions: 
 - any personal reproduction or imitation of a work of fine arts made must always be visibly designated as such
 remarks: "The exception extends to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' (§ 86) rights. Private copies of computer programs and databases are regulated by Section 30(3) of the law."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
