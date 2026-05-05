@@ -19,6 +19,7 @@ subjectmatter:
 - political speech 
 - (passages of a) public lecture
 - similar works
+- press publications
 compensation:
 - no compensation required
 attribution: 
@@ -27,5 +28,5 @@ attribution:
 otherConditions: 
 - the allowed use is limited to the extent justified by the informative purpose
 remarks: "The exception does not extend to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' rights (§ 86)."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
