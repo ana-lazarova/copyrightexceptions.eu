@@ -23,6 +23,7 @@ subjectmatter:
 - phonograms
 - film fixations
 - broadcasts
+- press publications
 compensation:
 - no compensation required
 attribution: 
@@ -30,5 +31,5 @@ attribution:
 otherConditions: 
 - the exception applies to audiovisual works only when they have been published
 remarks: "The exception extends to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' rights (§ 86).<br /><br />According to article 4(2) of the Copyright Act, a work is published 'by commencing of authorised public distribution of its reproductions'."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
