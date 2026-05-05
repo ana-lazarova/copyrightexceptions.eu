@@ -23,6 +23,7 @@ subjectmatter:
 - sound recordings
 - film fixations
 - broadcasts
+- press publications
 compensation:
 - does not require the payment of compensation
 attribution: 
@@ -32,5 +33,5 @@ otherConditions:
 - "3-step test: uses of works must not conflict with a normal exploitation of the work and not unreasonably prejudice the legitimate interests of the author"
 - the exceptions do not apply to press publications
 remarks: Neither of the two exceptions in §31(1)(c) and §35(2) of the Copyright Act apply to press publications (§87b(7)). In addition to §31(1)(c), art. 5 of the CDSM Directive was implemented in parallel, in a provision covering 'licensing for digital teaching', which partially overlaps with the scope of §31(1)(c). It covers digital uses only, solely for educational institutions, and there is a very broadly worded carve-out for the use of works primarily intended for educational purposes and of published sheet music of musical or musical-dramatic works, without conditioning its application on the availability of appropriate licences.<br /><br />The exception extends to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82), broadcasters' (§ 86) rights.
-link: https://www.zakonyprolidi.cz/cs/2000-121/zneni-20210227
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
