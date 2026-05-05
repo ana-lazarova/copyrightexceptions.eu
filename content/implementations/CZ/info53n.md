@@ -21,6 +21,7 @@ subjectmatter:
 - phonograms
 - film fixations
 - broadcasts
+- press publications
 compensation:
 - compensation required for certain uses
 attribution: 
@@ -30,5 +31,5 @@ otherConditions:
 - use must not be subject to purchase or licensing terms
 - members of the public must be prevented from making reproductions of the work others than for their private use under the private copy exception
 remarks: "The exception extends to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' (§ 86) rights."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
