@@ -17,11 +17,12 @@ usage:
 - expressing by drawing, painting, graphic art, photography or film
 subjectmatter:
 - work (permanently located on a square, in a street, in a park, on a public route or in any other public place)
+- press publications
 compensation:
 - no compensation required
 attribution: 
 - the name of the author (unless the work is an anonymous work) or the name of the person under whose name the work has been introduced to the public, the title of the work and its location must be indicated, unless impossible
 otherConditions:  
 remarks: "The exception does not extend to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' rights (§ 86)."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
