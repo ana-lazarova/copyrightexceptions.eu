@@ -8,13 +8,13 @@ exceptions:
 jurisdictions:
 - MT
 score: 2
-description: "This exception allows cultural heritage institutions to make available on non-commercial websites, for non-commercial purposes, out-of-commerce works or other  subject-matter that are permanently in their collections." 
+description: "This exception allows cultural heritage institutions to make available on non-commercial websites, for non-commercial purposes, out-of-commerce works or other subject-matter that are permanently in their collections." 
 beneficiaries:
 - cultural heritage institutions
 purposes: 
-- making available to the public (on non-commercial websites)
+- non-commercial
 usage:
-- reproduction (in any format or medium)
+- making available to the public (on non-commercial websites)
 subjectmatter:
 - works
 - databases
@@ -29,6 +29,6 @@ otherConditions:
 - the exception only applies to types of works or other subject-matter for which no sufficiently representative collective management organisation exists
 - the rightholder may, at any time, easily and effectively, exclude their works or other subject-matter from the application of the exception
 - 3-step test (the exception is only applicable in particular cases which do not conflict with a normal exploitation of the work or other subject-matter and do not unreasonably prejudice the legitimate interests of the rightholder)
-remarks: "The exception appears not to apply to other related rights, apart from press publishers’ rights and sui generis database rights."
+remarks: "The exception appears not to apply to other related rights, apart from press publishers’ rights and sui generis database rights. It also does not appear to extend to acts of reproduction."
 link: https://legislation.mt/eli/sl/415.8/eng
 ---
