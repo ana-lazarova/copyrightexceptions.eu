@@ -7,7 +7,7 @@ exceptions:
 - dsm8
 jurisdictions:
 - RO
-score: 3
+score: 2
 description: "This exception allows cultural heritage preservation institutions to make available, on non-commercial websites and for non-commercial purposes, out-of-commerce works or other protected subject matter, present in their permanent collection, except for categories of works or other protected subject matter for which there is a suficiently representative collective management organisation and the rightholder have not excludes some or all of their works or other protected subject matter from the application of the exception."
 beneficiaries:
 - cultural heritage preservation institutions
@@ -33,6 +33,6 @@ attribution:
 otherConditions: 
 - works used must be present in beneficiaries' permanent collection
 - the uses of works and other protected subject matter, pursuant to the exception, is deemed to take place on the territory of the state where the cultural heritage preservation institution that resorts to the respective use is also headquartered
-remarks: "The law provides for a definition of non-commercial websites. Pursuant to art. 128^4(8), websites presenting and promoting the activity of heritage conservation and enhancement institutions do not represent commercial sites, even if tickets, subscriptions or souvenirs are sold on these pages, if they belong to or concern the activity or services of the respective institution. <br /><br/>According to art. 120, the provisions regarding the limits of exercising copyright also apply accordingly to related rights. It is unclear if the exception applies to broadcasting rights (art. 134). Art. 94^1 makes all exceptions applicable to press publications. As per art. 128^4(2) in fine, this particular exception also applies to sui generis database rights."
+remarks: "The law provides for a definition of non-commercial websites. Pursuant to art. 128^4(8), websites presenting and promoting the activity of heritage conservation and enhancement institutions do not represent commercial sites, even if tickets, subscriptions or souvenirs are sold on these pages, if they belong to or concern the activity or services of the respective institution.<br /><br/>According to art. 120, the provisions regarding the limits of exercising copyright also apply accordingly to related rights. It is unclear if the exception applies to broadcasting rights (art. 134). Art. 94^1 makes all exceptions applicable to press publications. As per art. 128^4(2) in fine, this particular exception also applies to sui generis database rights.<br /><br/>Despite its broad scope, the exception does not appear to extend to acts of reproduction, which warrants a slightly lower score."
 link: https://legislatie.just.ro/Public/DetaliiDocument/7816
 ---
