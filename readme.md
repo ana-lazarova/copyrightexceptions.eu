@@ -10,5 +10,4 @@ As of 6 May 2026, the following EU27 Member State implementations (excluding the
 
 | Country | Missing implementations |
 |---------|------------------------|
-| **CY** | [info53a](https://github.com/copyrightexceptions/copyrightexceptions.eu/blob/master/content/implementations/CY/info53a.md) |
 | **IT** | [info53e](https://github.com/copyrightexceptions/copyrightexceptions.eu/blob/master/content/implementations/IT/info53e.md) |
