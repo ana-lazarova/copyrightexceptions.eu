@@ -7,7 +7,7 @@ exceptions:
 - dsm8
 jurisdictions:
 - HU
-score: 1
+score: 2
 description: "This exception allows for the reproduction and communication to the public of a work that is out of commercial circulation, nor for the adaptation and distribution of software, if the use is aimed at making available, provided that the work is a permanent part of the collection of the cultural heritage institutions; the communication to the public is carried out on a website maintained for non-commercial purposes and; the collective management organisation representing the exclusive right to exercise the rights in respect of the type of work to be used does not have the authorisation and the applicable fee schedule for exercising the rights. Also, the author or the rightholder of related rights may object to the use at any time, even after the use has begun."
 beneficiaries:
 - cultural heritage institutions (implied)
