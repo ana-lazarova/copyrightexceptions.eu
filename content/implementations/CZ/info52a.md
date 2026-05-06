@@ -20,6 +20,7 @@ usage:
 - printed reproduction of works on paper or other similar medium by photographic technique or by any other process with similar effects
 subjectmatter:
 - works
+- press publications
 compensation:
 - compensation due in cases of reproduction as per third party assignement
 attribution: 
@@ -27,5 +28,5 @@ attribution:
 otherConditions: 
 - musical notations are excluded from the scope of the exceptions
 remarks: "The exception does not extend to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' (§ 86) and database makers' (§ 94) rights."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
