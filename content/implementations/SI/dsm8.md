@@ -17,8 +17,8 @@ purposes:
 - non-commercial
 usage:
 - making available to the public (on a non-commercial website)
-- reproduction (for the puropose of making available)
-- transformation (for the puropose of making available)
+- reproduction (for the purpose of making available)
+- transformation (of databases - for the purpose of making available)
 subjectmatter:
 - works 
 - databases
@@ -35,6 +35,6 @@ otherConditions:
 - the use referred to in the preceding paragraph shall be permitted only if, under the Act governing the collective management of copyright and related rights, there is no 'representative collective management organisation' for the collective management of rights in cases of the reproduction, distribution, communication to the public or making available to the public of the works
 - the author may at any time exclude the use of his work
 - the use of out-of-commerce works is deemed to take place exclusively in the Member State where the beneficiary is established
-remarks: "The exception does not require for CMOs to be 'sufficiently' representative for the purpose of applying the extended lixensing scheme.<br /><br />According to Article 4 of the CRRA, the provisions on 'the substantive restrictions on copyright' apply mutatis mutandis to related rights, unless otherwise provided in Chapter Five of the Act."
+remarks: "The exception does not require for CMOs to be 'sufficiently' representative for the purpose of applying the extended licensing scheme.<br /><br />According to Article 4 of the CRRA, the provisions on 'the substantive restrictions on copyright' apply mutatis mutandis to related rights, unless otherwise provided in Chapter Five of the Act."
 link: https://www.wipo.int/wipolex/en/legislation/details/21946
 ---
