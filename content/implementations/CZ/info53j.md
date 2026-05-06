@@ -17,6 +17,7 @@ usage:
 - any use
 subjectmatter:
 - works of art
+- press publications 
 compensation:
 - no compensation required
 attribution: 
@@ -25,5 +26,5 @@ otherConditions:
 - use is limited to the extent necessary for the promotion of the event 
 - direct or indirect economic or commercial advantage is expressly left out of the exception
 remarks: "The exception does not extend to performers' (§ 74), phonogram producers' (§ 78), film producers' (§ 82) and broadcasters' rights (§ 86)."
-link: 
+link: https://www.e-sbirka.cz/sb/2000/121/2025-07-01?zalozka=text
 ---
