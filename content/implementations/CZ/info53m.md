@@ -19,6 +19,7 @@ usage:
 - any use (2nd case)
 subjectmatter:
 - architectural works
+- press publications
 compensation:
 - no compensation required 
 attribution: 
