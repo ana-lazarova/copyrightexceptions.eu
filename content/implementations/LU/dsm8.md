@@ -7,7 +7,7 @@ exceptions:
 - dsm8
 jurisdictions:
 - LU
-score: 3
+score: 2
 description: "This exception allows publicly accessible libraries, museums, archives or institutions holding cinematographic or sound heritage, to make available on non-commercial websites and for non-commercial purposes, out-of commerce works permanently held in their collections, provided that there is no sufficiently representative collective management body to manage the use of the works, and the author has not excluded their works from the application of the exception." 
 beneficiaries:
 - libraries, museums, archives or institutions holding cinematographic or sound heritage
@@ -31,6 +31,6 @@ otherConditions:
 - works used must be permanently held in beneficiaries' collections
 - there must be no sufficiently representative collective management body to manage the use of the works
 - the author must have not excluded their works from the application of the exception
-remarks: "In 2022, the national legislator added a general rule in a new paragraph 4 of art.10, according to which all exceptions are imperative (non-overriddable by contract).<br /><br/>The scope of the exception is extended to neighbouring rights under art. 46(2) - for performers, phonogram and film producers; art. 55 refers to art. 46 for broadcasters and art.56bis(3) - for ress publishers. The exception also covers the sui generis database right (art. 68(2)). All exceptions apply mutatis mutandis to the distribution right."
+remarks: "In 2022, the national legislator added a general rule in a new paragraph 4 of art.10, according to which all exceptions are imperative (non-overriddable by contract).<br /><br/>The scope of the exception is extended to neighbouring rights under art. 46(2) - for performers, phonogram and film producers; art. 55 refers to art. 46 for broadcasters and art.56bis(3) - for ress publishers. The exception also covers the sui generis database right (art. 68(2)). All exceptions apply mutatis mutandis to the distribution right.<br /><br/>Notwithstanding its broad scope and imperative nature, the exception does not appear to extend to acts of reproduction, which warrants a slightly lower score."
 link: https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20220409
 ---
