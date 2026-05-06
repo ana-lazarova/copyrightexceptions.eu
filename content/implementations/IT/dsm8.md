@@ -20,7 +20,6 @@ usage:
 - translation
 - adaptation and modification 
 subjectmatter:
-- subjectmatter:
 - works
 - performances
 - phonograms
